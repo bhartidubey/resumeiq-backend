@@ -1,8 +1,0 @@
-{
-  "name": "resumeiq-backend",
-  "version": "2.0.0",
-  "description": "ResumeIQ API — IP rate limited via Upstash Redis",
-  "engines": {
-    "node": ">=18"
-  }
-}
